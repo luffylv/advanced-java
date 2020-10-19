@@ -4,6 +4,8 @@
 [![license](https://badgen.net/github/license/doocs/advanced-java?color=green)](https://github.com/doocs/advanced-java/blob/master/LICENSE)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 [![doocs](https://badgen.net/badge/organization/join%20us/green)](https://doocs.github.io/#/?id=how-to-join)
+[![github](https://badgen.net/badge/⭐/GitHub/blue)](https://github.com/doocs/advanced-java)
+[![gitee](https://badgen.net/badge/⭐/Gitee/blue)](https://gitee.com/doocs/advanced-java)
 [![stars](https://badgen.net/github/stars/doocs/advanced-java)](https://github.com/doocs/advanced-java/stargazers)
 [![forks](https://badgen.net/github/forks/doocs/advanced-java)](https://github.com/doocs/advanced-java/network/members)
 [![contributors](https://badgen.net/github/contributors/doocs/advanced-java)](https://github.com/doocs/advanced-java/tree/master/docs/from-readers#contributors)
@@ -15,13 +17,15 @@
 
 本项目大部分内容来自中华石杉，版权归作者所有，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)、[海量数据处理](#海量数据处理)等领域知识。我对这部分知识做了一个系统的整理，方便学习查阅。
 
-学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友到 Issues 讨论区分享自己的一些想法和实践经验。
+学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目欢迎各位开发者朋友到 Issues 讨论区分享自己的一些想法和实践经验。也不妨 Star 关注 [doocs/advanced-java](https://github.com/doocs/advanced-java)，随时追踪项目最新动态。
+
+本项目基于 [Docsify](https://docsify.js.org) 进行构建，并同步部署在以下三个站点：
 
 - Netlify: https://adjava.netlify.app
 - Gitee Pages: https://doocs.gitee.io/advanced-java
 - GitHub Pages: https://doocs.github.io/advanced-java
 
-注：本项目站点基于 [Docsify](https://docsify.js.org) 构建，如果你希望在本地运行，请按照以下步骤进行操作：
+如果你同时希望在本地查看，请按照以下步骤进行操作：
 
 1. 安装 NodeJS 环境：https://nodejs.org/zh-cn/
 2. 安装 [Docsify](https://docsify.js.org)：`npm i docsify-cli -g`
@@ -200,7 +204,7 @@ Doocs 技术社区，致力于打造一个内容完整、持续成长的互联�
 
 <!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
 
-<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=1080&button=false" /></a>
+<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 <!-- ALL-CONTRIBUTORS-LIST: END -->
 
@@ -208,23 +212,24 @@ Doocs 技术社区，致力于打造一个内容完整、持续成长的互联�
 
 [Doocs](https://github.com/doocs) 技术社区旗下唯一公众号「**Doocs 开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
+<table>
+  <tr>
+    <td align="center" style="width: 200px;">
+      <a href="https://github.com/doocs">
+        <img src="./images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
+        <sub>公众平台</sub>
+      </a><br>
+    </td>
+    <td align="center" style="width: 200px;">
+      <a href="https://github.com/yanglbme">
+        <img src="./images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
+        <sub>个人微信</sub>
+      </a><br>
+    </td>
+  </tr>
+</table>
+
+
 关注「**Doocs 开源社区**」公众号，回复 **PDF**，即可获取本项目离线 PDF 文档（283 页精华），学习更加方便！
 
 ![](./images/pdf.png)
-
-<table>
-    <tr>
-      <td align="center" style="width: 200px;">
-        <a href="https://github.com/doocs">
-          <img src="./images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
-          <sub>公众平台</sub>
-        </a><br>
-      </td>
-      <td align="center" style="width: 200px;">
-        <a href="https://github.com/yanglbme">
-          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
-          <sub>个人微信</sub>
-        </a><br>
-      </td>
-    </tr>
-</table>
